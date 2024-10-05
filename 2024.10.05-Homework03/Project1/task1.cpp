@@ -29,7 +29,6 @@ int main(int argc, char* argv[])
 	if (resh > orel) 
 	{
 		printf("%d", orel);
-
 	}
 	else if (orel > resh)
 	{
