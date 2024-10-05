@@ -30,7 +30,6 @@ int main(int argc, char* argv[])
 		int f = (f1 + f0) % num;
 		f0 = f1;
 		f1 = f;
-
 	}
 	printf("%d", f0);
 
