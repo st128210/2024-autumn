@@ -12,7 +12,6 @@ int main(int argc, char* argv[])
 	for (int i = 0; i < n; ++i)
 	{
 		scanf_s("%d", &a[i]);
-	
 	}
 
 	scanf_s("%d", &x);

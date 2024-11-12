@@ -1,10 +1,9 @@
 #include <cstdio>
-#define N 1000
 
 int main(int argc, char* argv[])
 {
-	int a[N] = { 0 };
-    int p[N] = { 0 };
+	int a[1001] = { 0 };
+    int p[1001] = { 0 };
 	int n = 0;
 
 	scanf_s("%d", &n);

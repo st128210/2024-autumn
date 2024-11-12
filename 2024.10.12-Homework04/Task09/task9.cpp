@@ -1,8 +1,8 @@
 #include <cstdio>
-#define N 1000
+
 int main(int argc, char* argv[])
 {
-	unsigned int a[N] = { 0 };
+	unsigned int a[1001] = { 0 };
 	int n = 0;
 
 	scanf_s("%d", &n);

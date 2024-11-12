@@ -21,8 +21,8 @@ int main(int argc, char* argv[])
 		{
 			i_max = step;
 		}
-		
 	}
+
 	if (a[n - 2] + a[n - 1] + a[0] > i_max)
 	{
 		i_max = a[n - 2] + a[n - 1] + a[0];
